@@ -1,0 +1,28 @@
+* {
+    border: 0px;
+    margin: 0px;
+}
+
+body {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+}
+
+p {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+div {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+div button {
+    border: 1px solid black;
+}
